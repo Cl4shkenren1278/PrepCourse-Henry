@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-este es un repositorio de prueba del prepcourse de Henry
+prueba de como crear un repositorio local
